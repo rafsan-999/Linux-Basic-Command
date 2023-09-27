@@ -2,3 +2,5 @@
     du -h /home/ibos/test---is a file
 #### The output will display the file size along with the file path:
     size---8.0K    /home/ibos/test
+#### Os version And IP address Check Command:
+    lsb_release -a && ip r
